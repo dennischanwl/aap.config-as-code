@@ -4,3 +4,4 @@ controller_templates:
    instance_groups:
     - default
    inventory: Demo Inventory
+   project: Demo Project
