@@ -2,5 +2,5 @@ controller_templates:
  - name: Dennis Job Template
    execution_environment: Default execution environment
    instance_groups:
-   - default
+    - default
    inventory: Demo Inventory
