@@ -5,3 +5,6 @@ controller_templates:
     - default
    inventory: Demo Inventory
    project: Demo Project
+   playbook: hello_world.yml
+   credentials:
+    - Demo Credential
